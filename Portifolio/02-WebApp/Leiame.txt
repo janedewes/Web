@@ -1,0 +1,6 @@
+Para executar a app, digite:
+
+python app.py 
+
+
+browser: http://127.0.0.1:5002/
